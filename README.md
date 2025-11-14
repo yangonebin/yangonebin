@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black)
-![Vue.js](https://img_shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -38,12 +37,8 @@
 
 [**연락 및 콘텐츠**]
 * **이메일:** [yangonebin@gmail.com](mailto:yangonebin@gmail.com)
-* **유튜브 채널:** [남들보다 앞서나가는지혜]({유튜브 채널 URL})
+* **유튜브 채널:** [남들보다 앞서나가는지혜]({https://www.youtube.com/@DIKWpyramid})
     * (유튜브 채널 URL을 추가해서 사용하세요!)
 * **협업 문의:** e-커머스 빅데이터 분석 및 ML/DL 모델 개발 관련 프로젝트 협업을 환영합니다.
 
 ---
-
-### 📝 이 README 파일에 기여하기
-
-* 이 프로필을 개선하기 위한 어떤 아이디어나 제안도 환영합니다.
