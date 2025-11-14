@@ -1,46 +1,49 @@
-## 👋 안녕하세요, 개발자 양영근입니다.
+## 🌟 안녕하세요, ML/DL 빅데이터 전문가 양한빈입니다.
 
-### 💻 기술 스택 (Tech Stack)
+저는 **머신러닝(ML), 딥러닝(DL), 빅데이터 분석**을 전문으로 하며, 특히 **e-커머스** 분야의 데이터 기반 의사결정 및 서비스 최적화에 깊은 관심을 가지고 있습니다.
 
-제가 주로 사용하거나 관심 있게 공부하고 있는 기술들입니다.
+### 💻 전문 기술 스택 (Technical Stack)
 
-| Category | Description |
+제가 보유한 기술 스택과 주로 활용하는 도구들입니다.
+
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React/Vue.js |
-| **Backend** | Python (Django, Flask), Node.js (Express) |
-| **Database** | PostgreSQL, MySQL, MongoDB |
-| **Tools & DevOps** | Git, Docker, AWS/GCP (Basic), VS Code |
+| **핵심 개발 언어** | **Python**, HTML/CSS |
+| **데이터 분석/통계** | **SPSS**, **PowerBI**, Excel |
+| **데이터베이스** | **SQLite3**, Access |
+| **웹/프레임워크** | Vue, Django |
+| **협업 및 개발 도구** | Git, VS Code |
 
-> **뱃지(Badges) 추가하기:** 아래처럼 사용하는 기술의 로고를 뱃지로 추가하여 시각적으로 보여줄 수 있습니다. 뱃지의 `VALUE`와 `LOGO`를 원하는 기술로 변경해 보세요.
+> **뱃지(Badges) 추가:** 핵심 기술들을 시각적인 뱃지로 표현했습니다.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black)
+![Vue.js](https://img_shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📈 GitHub 활동 및 통계
 
-> **💡 참고:** 아래 코드는 `{사용자 이름}` 부분을 본인의 GitHub 사용자 이름으로 변경해야만 작동합니다. 또한, 배경 색상이나 테마를 변경하여 커스터마이징할 수 있습니다.
+> **💡 참고:** 아래 코드의 **`yangonebin`** 부분을 본인의 GitHub 사용자 이름으로 변경해야만 실제 통계가 표시됩니다.
 
 | 통계 (Stats) | 언어 사용 비율 (Top Languages) |
 | :--- | :--- |
-| [![{사용자 이름}'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangonebin&show_icons=true&theme=default&count_private=true)](https://github.com/yangonebin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangonebin&layout=compact&theme=default)](https://github.com/yangonebin) |
+| [![양한빈's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangonebin&show_icons=true&theme=default&count_private=true)](https://github.com/yangonebin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangonebin&layout=compact&theme=default)](https://github.com/yangonebin) |
 
 ---
 
-### 🎯 현재 관심사 및 목표
+### 📧 소통 채널 및 프로젝트
 
-* **현재 집중:** 최근 `{관심사/기술 이름}`을 활용한 프로젝트에 집중하고 있습니다.
-* **배우고 싶은 것:** `{새롭게 도전하고 싶은 기술}`의 아키텍처와 성능 최적화에 대해 깊이 공부하는 것이 목표입니다.
-* **최근 활동:** `{가장 최근에 진행 중인 프로젝트 이름}`을 통해 `{해당 프로젝트의 핵심 목표}`를 달성하고 있습니다.
+[**연락 및 콘텐츠**]
+* **이메일:** [yangonebin@gmail.com](mailto:yangonebin@gmail.com)
+* **유튜브 채널:** [남들보다 앞서나가는지혜]({유튜브 채널 URL})
+    * (유튜브 채널 URL을 추가해서 사용하세요!)
+* **협업 문의:** e-커머스 빅데이터 분석 및 ML/DL 모델 개발 관련 프로젝트 협업을 환영합니다.
 
 ---
 
-### 📧 소통 채널
+### 📝 이 README 파일에 기여하기
 
-[**연락 및 소셜 미디어**]
-* **Blog/Website:** [개인 블로그 링크]({블로그 URL})
-* **LinkedIn:** [링크드인 프로필]({LinkedIn URL})
-* **Email:** `{개인 이메일 주소}`를 통해 연락 주세요.
+* 이 프로필을 개선하기 위한 어떤 아이디어나 제안도 환영합니다.
