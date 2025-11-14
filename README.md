@@ -37,7 +37,7 @@
 
 [**연락 및 콘텐츠**]
 * **이메일:** [yangonebin@gmail.com](mailto:yangonebin@gmail.com)
-* **유튜브 채널:** [남들보다 앞서나가는지혜]({https://www.youtube.com/@DIKWpyramid})
+* **유튜브 채널:** [[남들보다 앞서나가는지혜]({https://www.youtube.com/@DIKWpyramid})](https://www.youtube.com/@DIKWpyramid)
     * (유튜브 채널 URL을 추가해서 사용하세요!)
 * **협업 문의:** e-커머스 빅데이터 분석 및 ML/DL 모델 개발 관련 프로젝트 협업을 환영합니다.
 
