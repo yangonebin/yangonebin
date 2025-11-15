@@ -1,54 +1,44 @@
+## 🌟 안녕하세요, ML/DL 빅데이터 전문가 양한빈입니다.
 
-<p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+저는 **머신러닝(ML), 딥러닝(DL), 빅데이터 분석**을 전문으로 하며, 특히 **e-커머스** 분야의 데이터 기반 의사결정 및 서비스 최적화에 깊은 관심을 가지고 있습니다.
 
-  <p align="center">
-Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는  정적 포트폴리오 템플릿 입니다. Github 페이지로 호스팅 됩니다.
-    <br/>웹 사이트는 <a href="https://www.jeongkoo.com">DEMO</a>에서 확인하실 수 있습니다.
-    <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-  <br/>
-  <br/>
-  <img src="https://github.com/congchu/portfolio-1/blob/main/20210428.gif?raw=true"/>
-</p>
+### 💻 전문 기술 스택 (Technical Stack)
 
+제가 보유한 기술 스택과 주로 활용하는 도구들입니다.
 
-## Overview ⭐️
-- static website로 Github pages 활용한 웹 호스팅 가능
-- 개발자 맞춤형 포트폴리오 웹 페이지
-- 제작자 표기 시, 무료로 활용가능
+| Category | Skills & Tools |
+| :--- | :--- |
+| **핵심 개발 언어** | **Python**, HTML/CSS |
+| **데이터 분석/통계** | **SPSS**, **PowerBI**, Excel |
+| **데이터베이스** | **SQLite3**, Access |
+| **웹/프레임워크** | Vue, Django |
+| **협업 및 개발 도구** | Git, VS Code |
 
-## Prerequisites 🍪
-- PC에 git이 설치되어 있어야하며, Github 계정이 있어야 합니다.
-- HTML 문법을 몰라도 텍스트만 교체하여 활용 가능합니다.
-- HTML 문법을 알면 레이아웃이나 디자인을 변경할 수 있습니다.
-- CSS를 몰라도 제작 가능하지만, CSS에 친숙하다면 디자인도 자유롭게 변경할 수 있습니다.
+> **뱃지(Badges) 추가:** 핵심 기술들을 시각적인 뱃지로 표현했습니다.
 
-## Setup And Deployment 🔧
-1. 내 프로젝트로 Fork합니다.
-2. repository를 clone하여 로컬로 내려받습니다.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-    ```
-    git clone {저장소URL}
-    ```
+---
 
-4. 내용을 원하는대로 수정합니다.
-5. github commit & push 합니다.
+### 📈 GitHub 활동 및 통계
 
-```bash
-git commit -m 'initial project'
-git push - u origin master
-```
-6. github Settings에서 pages로 이동하여, Source를 main branch로 바꿔줍니다.
-7. publish 되었다는 URL로 접속하여 확인합니다 (시간이 좀 걸리니, 5분정도 기다려주세요)
+> **💡 참고:** 아래 코드의 **`yangonebin`** 부분을 본인의 GitHub 사용자 이름으로 변경해야만 실제 통계가 표시됩니다.
 
+| 통계 (Stats) | 언어 사용 비율 (Top Languages) |
+| :--- | :--- |
+| [![양한빈's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangonebin&show_icons=true&theme=default&count_private=true)](https://github.com/yangonebin) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangonebin&layout=compact&theme=default)](https://github.com/yangonebin) |
 
-## Documentation 📑
+---
 
-튜토리얼 문서는 [웹 포트폴리오 제작 튜토리얼](https://www.notion.so/cucus/85e3bec77d904f1fa282cec4756232c3)에서 확인해주세요.
+### 📧 소통 채널 및 프로젝트
 
-###
-첫번째 커밋
+[**연락 및 콘텐츠**]
+* **이메일:** [yangonebin@gmail.com](mailto:yangonebin@gmail.com)
+* **유튜브 채널:** [({https://www.youtube.com/@DIKWpyramid})](https://www.youtube.com/@DIKWpyramid)
+  
+* **협업 문의:** e-커머스 빅데이터 분석 및 ML/DL 모델 개발 관련 프로젝트 협업을 환영합니다.
+
+---
