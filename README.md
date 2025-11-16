@@ -1,13 +1,11 @@
-## 🌟 안녕하세요, ML/DL 빅데이터 전문가 양한빈입니다.
+##  안녕하세요, ML/DL 빅데이터 전문가 양한빈입니다.
 
 저는 **머신러닝(ML), 딥러닝(DL), 빅데이터 분석**을 전문으로 하며, 특히 **e-커머스** 분야의 데이터 기반 의사결정 및 서비스 최적화에 깊은 관심을 가지고 있습니다.
+
+
+
+# https://yangonebin.github.io/yangonebin/
 포트폴리오 페이지 보러가기
-
-GitHub Pages
-GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
-
-Your site is live at https://yangonebin.github.io/yangonebin/
-Last deployed by @yangonebin yangonebin 1 minute ago
 
 ### 💻 전문 기술 스택 (Technical Stack)
 
