@@ -36,15 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangonebin&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangonebin&layout=compact&theme=radical" height="150" alt="langs" />
-</div>
-
----
-
 ### 📧 Contact
 
 * **Email:** [yangonebin@gmail.com](mailto:yangonebin@gmail.com)
