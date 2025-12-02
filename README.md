@@ -24,7 +24,7 @@
 
 ### 🏆 Featured Research & Project
 
-#### 🔬 [Comparative Analysis of CNN vs ViT on MNIST](https://github.com/yangonebin/mnist-mlops)
+#### 🔬 [Comparative Analysis of CNN vs ViT on MNIST](https://winter-azimuth-dd0.notion.site/Project-Report-MNIST-MLOps-Pipeline-2bd1a506dcad80818476e00e25042394)
 > **"모델 구조에 따른 유도 편향(Inductive Bias) 차이와 성능 검증"**
 
 * **Focus:** **Model Architecture Analysis & Statistical Verification**
